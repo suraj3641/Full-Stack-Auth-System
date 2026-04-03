@@ -1,0 +1,8 @@
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.csproj.AssemblyReference.cache
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.AssemblyInfoInputs.cache
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.AssemblyInfo.cs
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.csproj.CoreCompileInputs.cache
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net9.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache

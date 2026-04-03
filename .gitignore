@@ -1,0 +1,8 @@
+"node_modules/" 
+"backend/AuthAPI/bin/" 
+"backend/AuthAPI/obj/" 
+"frontend/build/" 
+".vs/" 
+".vscode/" 
+"*.log" 
+".env" 
