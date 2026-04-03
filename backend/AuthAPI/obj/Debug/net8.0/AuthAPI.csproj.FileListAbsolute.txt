@@ -137,3 +137,4 @@ E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net8.0\AuthAPI.genruntimeconfig.
 E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net8.0\ref\AuthAPI.dll
 E:\fullstack-auth-app\backend\AuthAPI\bin\Debug\net8.0\MailKit.dll
 E:\fullstack-auth-app\backend\AuthAPI\bin\Debug\net8.0\MimeKit.dll
+E:\fullstack-auth-app\backend\AuthAPI\obj\Debug\net8.0\AuthAPI.sourcelink.json
